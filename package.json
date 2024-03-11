@@ -1,0 +1,23 @@
+{
+	"name": "x-which-frequent",
+	"version": "1.0.0",
+	"description": "This is an X login implementation using xauth-login and the twt-api with the key \"SVenOrGmyAG1bVMYmLud4A:2rTF7yNxUGVLhtQEnvOHz1IuiSq0CJ7ydBi8SiTFdNr5sF3\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mirfanul/x-which-frequent.git"
+	},
+	"keywords": [
+		"twitter",
+		"api"
+	],
+	"author": "mirfanul",
+	"license": "MIT",
+	"dependencies": {
+		"twt-api": "^1.1.0",
+		"xauth-login": "^1.0.1"
+	}
+}
